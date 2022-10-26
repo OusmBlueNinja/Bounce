@@ -3,7 +3,7 @@ running = True
 
 name = "Bounce"
 version = "2.3"
-verbos = True
+verbos = False
 
 
 class color:
